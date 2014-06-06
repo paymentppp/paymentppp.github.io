@@ -1,0 +1,107 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: normal 0.813em/1.38 HiraginoSansGB-W3;
+  color: rgb(177, 177, 177);
+}
+
+p {
+  margin-bottom: 1em;
+}
+
+.content {
+  position: absolute;
+  top: 100px;
+  left: 0;
+  right: 0;
+  z-index: 5;
+  width: 531px;
+  height: 574px;
+  margin: 0 auto;
+}
+
+.copy-content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 6;
+  width: 1200px;
+  margin: 0 auto;
+  font-size: 1em;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(177, 177, 177);
+}
+
+.copyright {
+  position: absolute;
+  top: 753px;
+  left: 0;
+  right: 0;
+  z-index: 7;
+  width: 100%;
+  height: 99px;
+  margin: 0 auto;
+}
+
+.download {
+  display: block;
+  float: left;
+  clear: both;
+  width: 100%;
+  height: 62px;
+  margin-top: 45px;
+  border-radius: 3px;
+  background-color: rgba(17, 162, 255, 0.8);
+  font: 400 1.846em/1.38 Helvetica;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.element {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 8;
+  width: 100%;
+  height: 41px;
+  margin: 0 auto;
+  background-color: rgb(20, 163, 255);
+}
+
+.image {
+  display: block;
+  float: left;
+  height: auto;
+  overflow: hidden;
+}
+
+.intro .image {
+  width: 97.4093264248%;
+}
+
+.intro .intro {
+  display: inline-block;
+  float: left;
+  clear: both;
+  width: 100%;
+  margin-top: 47px;
+  font: 400 3.615em/0.1 Helvetica;
+  text-align: center;
+  color: rgb(48, 48, 48);
+}
+
+.image-2 {
+  width: 320px;
+  margin-left: 39.8496240601%;
+}
+
+.intro-1 {
+  position: absolute;
+  top: 33px;
+  left: 0;
+  z-index: 3;
+  width: 193px;
+  height: 492px;
+}
